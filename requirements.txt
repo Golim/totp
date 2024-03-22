@@ -1,0 +1,2 @@
+keyring==24.3.0
+pyclip==0.7.0
